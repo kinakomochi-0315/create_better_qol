@@ -1,0 +1,10 @@
+{
+    "type": "stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": "create:copycat_step",
+    "count": 4
+}
